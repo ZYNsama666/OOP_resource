@@ -1,2 +1,2 @@
 # resource
-change .py to .zip with no unzip password and you can find a new world!
+一些OOP代码资源，更新中
